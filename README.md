@@ -1,3 +1,2 @@
 # Fix_My_Code_Challenge
 Fixing existing code base ...
-<a>https://github.com/holbertonschool/0x00-Fix_My_Code_Challenge</a>
